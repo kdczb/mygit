@@ -1,4 +1,4 @@
+﻿
 
 
-
-hello git�� ��������...  remoter to local
+hello git ! ...  remoter to local
